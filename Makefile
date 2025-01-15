@@ -3,7 +3,7 @@
 ##################################################
 SHELL           = /bin/bash
 
-IMAGE_REGISTRY 	?= ghcr.io
+IMAGE_REGISTRY 	?= $(shell echo $$IMAGE_REGISTRY)
 IMAGE_REPO     	?= kedacore
 VERSION 		?= main
 
