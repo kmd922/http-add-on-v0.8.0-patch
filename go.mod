@@ -1,4 +1,4 @@
-module github.com/kmd922/http-add-on-v0.8.0-patch
+module github.com/kmd922/http-add-on-patch
 
 go 1.22.2
 
