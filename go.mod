@@ -1,4 +1,4 @@
-module github.com/kedacore/http-add-on
+module github.com/kmd922/http-add-on-v0.8.0-patch
 
 go 1.22.2
 
